@@ -37,7 +37,3 @@ People with hearing loss may not be aware of critical sounds like alarms, car ho
 - `AIN413-Sound-Recognition-With-Haptics.ipynb` – Implementation notebook
 - `technical_report.pdf` – Project proposal document
 
-## ▶️ How to Run
-
-```bash
-jupyter notebook AIN413_YükselÇağrıArslan_MustafaErenCen_project.ipynb
